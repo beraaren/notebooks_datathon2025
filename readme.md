@@ -1,7 +1,3 @@
-Harika bir proje\! Jüri heyetine sunulacak projeniz için detaylı, açıklayıcı ve referanslı bir README dosyası aşağıda hazırlanmıştır. Github formatına uygun olarak Markdown dilinde yazılmıştır.
-
------
-
 # Datathon: Oturum Değeri Tahmin Modeli
 
 Bu proje, bir e-ticaret platformundaki kullanıcı oturumlarının (session) gelecekteki potansiyel değerini tahmin etmeyi amaçlayan bir makine öğrenmesi modelini içermektedir. Proje, bir datathon kapsamında geliştirilmiş olup, kullanıcı davranışlarını analiz ederek anlamlı özellikler çıkarmayı ve bu özellikler üzerinden yüksek doğruluklu bir tahmin modeli oluşturmayı hedefler.

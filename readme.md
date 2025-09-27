@@ -1,5 +1,4 @@
 
------
 # Datathon: Oturum Değeri Tahmin Modeli
 
 Bu proje, bir e-ticaret platformundaki kullanıcı oturumlarının (session) gelecekteki potansiyel değerini tahmin etmeyi amaçlayan bir makine öğrenmesi modelini içermektedir. Proje, bir datathon kapsamında geliştirilmiş olup, kullanıcı davranışlarını analiz ederek anlamlı özellikler çıkarmayı ve bu özellikler üzerinden yüksek doğruluklu bir tahmin modeli oluşturmayı hedefler.
@@ -46,6 +45,7 @@ bu modeller denediğimiz başarılı mimarilerin tamamını içerir.
   * **`v7diğer_yaklaşımlar.ipynb`**: v7 modeline alternatif olarak geliştirilen veya ek olarak denenen farklı yaklaşımları ve analizleri içerir (örneğin, pseudo-labeling, gürültü simülasyonları).
   * **`shap_analysis.py`**: Eğitilmiş v8 modeli üzerinde SHAP analizi yaparak özelliklerin model tahminlerine olan etkisini görselleştirir ve açıklar.
 
+
 ## Takım Adı 
   * **`BinaryBors`**
------
+
